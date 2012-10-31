@@ -41,7 +41,7 @@ import org.springframework.web.context.request.NativeWebRequest;
 import org.springframework.web.util.WebUtils;
 
 /**
- * <p> <b>ShortUrlController</b> 短网址服务 </p>
+ * <p> <b>ShortUrlController</b> 短网址服务，中文 </p>
  * 
  * @since 2012-7-24
  * @author zhengping_wang
